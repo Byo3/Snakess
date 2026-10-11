@@ -10,5 +10,5 @@ The image below shows an example of the game.
 
 The green one is the snake and the red one is the apple.
 This project was Built with SFML library.
-![Snake_photo.png]()
+![Snake_photo.png](Snake_photo.png)
 
